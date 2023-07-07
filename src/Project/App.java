@@ -28,24 +28,46 @@ public class App {
 
 		log.info("*****************CREAZIONE RANDOM LIBRI E RIVISTE******************");
 
+		Thread thread1 = new Thread(() -> {
+			try {
+				for (int i = 0; i < 100; i++) {
+					Libro libro = genRandomBook();
+					catalogo.add(libro);
+				}
+
+			} catch (Exception e) {
+				log.error("Errore: ", e);
+				;
+			}
+		});
+
+		Thread thread2 = new Thread(() -> {
+			try {
+				for (int i = 0; i < 100; i++) {
+					Rivista rivista = genRandomRivista();
+					catalogo.add(rivista);
+				}
+			} catch (Exception e) {
+				log.error("Errore: ", e);
+				;
+			}
+
+		});
+
+		thread1.start();
+		thread2.start();
+
 		try {
-			for (int i = 0; i < 100; i++) {
-				Libro libro = genRandomBook();
-				catalogo.add(libro);
-			}
-
-			for (int i = 0; i < 100; i++) {
-				Rivista rivista = genRandomRivista();
-				catalogo.add(rivista);
-			}
-
-			catalogo.forEach(element -> log.info(element.toString()));
+			thread1.join();
+			thread2.join();
 		} catch (Exception e) {
-			log.error("Errore: ", e);
-			;
+			log.error("Errore durante l'esecuzione dei thread", e);
 		}
 
+		catalogo.forEach(element -> log.info(element.toString()));
+
 		log.info("*****************RIMOZIONE ELEMENTO RANDOM******************");
+
 		try {
 			removeRandomElement(catalogo);
 			removeRandomElement(catalogo);

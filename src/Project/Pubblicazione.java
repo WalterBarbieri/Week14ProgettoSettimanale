@@ -2,7 +2,7 @@ package Project;
 
 import java.time.LocalDate;
 
-public class Pubblicazione {
+public abstract class Pubblicazione {
 	private long codiceIsbn;
 	private String titolo;
 	private LocalDate annoPubblicazione;

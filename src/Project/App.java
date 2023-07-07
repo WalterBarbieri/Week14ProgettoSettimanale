@@ -1,8 +1,6 @@
 package Project;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
@@ -12,6 +10,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Optional;
 import java.util.Random;
+import java.util.Scanner;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -84,7 +83,10 @@ public class App {
 			log.error("Errore: ", e);
 		}
 
+		log.info("*****************RICERCA ELEMENTO BY AUTORE RANDOM******************");
 		saveOnDisk(catalogo);
+
+		// log.info(readFromFile().toString());
 
 	}
 
@@ -241,15 +243,46 @@ public class App {
 
 	// METODO PER LEGGERE DA DISCO
 	public static Set<Pubblicazione> readFromFile() throws IOException {
-
 		Set<Pubblicazione> catalogo = new HashSet<>();
-		File file = new File("Catalogo.txt");
 
-		try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
-			String line;
-			while ((line = reader.readLine()) != null) {
-				catalogo.add(Pubblicazione.fromString(line));
+		File file = new File("Catalogo.txt");
+		try (Scanner scanner = new Scanner(file)) {
+			while (scanner.hasNextLine()) {
+				String line = scanner.nextLine();
+				String[] lineElements = line.split(", ");
+
+				long codiceIsbn = Long.parseLong(lineElements[0].split(": ")[1]);
+				String titolo = lineElements[1].split(": ")[1];
+
+				String annoPubblicazioneString = lineElements[2].split(": ")[1];
+				LocalDate annoPubblicazione = LocalDate.of(Integer.parseInt(annoPubblicazioneString.substring(0, 4)),
+						Integer.parseInt(annoPubblicazioneString.substring(5, 7)),
+						Integer.parseInt(annoPubblicazioneString.substring(8, 10)));
+
+				int numPagine = Integer.parseInt(lineElements[3].split(": ")[1]);
+
+				if (lineElements[4].startsWith("Autore")) {
+					String autore = lineElements[4].split(": ")[1];
+					Genere genere = Genere.valueOf(lineElements[5].split(": ")[1]);
+
+					Libro libro = new Libro(codiceIsbn, titolo, annoPubblicazione, numPagine, autore, genere);
+					catalogo.add(libro);
+				}
+
+				if (lineElements[4].startsWith("Periodico")) {
+					Periodicita periodicita = Periodicita.valueOf(lineElements[4].split(": ")[1]);
+
+					Rivista rivista = new Rivista(codiceIsbn, titolo, annoPubblicazione, numPagine, periodicita);
+					catalogo.add(rivista);
+				}
 			}
+		} catch (IOException e) {
+			log.error("Errore nella lettura dal Disco");
+			e.printStackTrace();
+		} catch (Exception e) {
+			log.error("Errore nella lettura del Disco");
+			e.printStackTrace();
 		}
+		return catalogo;
 	}
 }

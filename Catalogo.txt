@@ -1,197 +1,197 @@
-ISBN: 4240328392890, Title: Infinite Jest, Anno Pubblicazione: 1983-06-07, Pagine: 68, Autore: Mrs. Lavon Muller, Genere: CUCINA
-ISBN: 6456599705142, Title: Surprised by Joy, Anno Pubblicazione: 1998-02-16, Pagine: 432, Periodico: SETTIMANALE
-ISBN: 9832163040150, Title: Stranger in a Strange Land, Anno Pubblicazione: 2011-05-06, Pagine: 93, Autore: Dacia Williamson, Genere: FANTASCIENZA
-ISBN: 6576195810404, Title: By Grand Central Station I Sat Down and Wept, Anno Pubblicazione: 1962-04-06, Pagine: 50, Autore: Lawanna Nicolas, Genere: CLASSICI
-ISBN: 2720947482343, Title: Noli Me Tangere, Anno Pubblicazione: 1998-11-04, Pagine: 511, Autore: Kyle Marks V, Genere: SAGGISTICA
-ISBN: 6630156026793, Title: In Dubious Battle, Anno Pubblicazione: 2020-06-22, Pagine: 496, Periodico: MENSILE
-ISBN: 7961994799389, Title: The Grapes of Wrath, Anno Pubblicazione: 1968-05-10, Pagine: 570, Autore: Dion Ruecker, Genere: CUCINA
-ISBN: 7419030187996, Title: The Wind's Twelve Quarters, Anno Pubblicazione: 2006-12-01, Pagine: 259, Periodico: SEMESTRALE
-ISBN: 9794889781882, Title: Blithe Spirit, Anno Pubblicazione: 1966-01-03, Pagine: 236, Periodico: MENSILE
-ISBN: 2090171751532, Title: The Wings of the Dove, Anno Pubblicazione: 1952-05-15, Pagine: 520, Autore: Chas Harris, Genere: FAVOLE
-ISBN: 6927651123368, Title: A Darkling Plain, Anno Pubblicazione: 2018-06-26, Pagine: 63, Periodico: SEMESTRALE
-ISBN: 3876805018099, Title: Many Waters, Anno Pubblicazione: 1987-07-08, Pagine: 495, Periodico: SETTIMANALE
-ISBN: 3421401384905, Title: Look Homeward, Angel, Anno Pubblicazione: 1951-11-25, Pagine: 236, Autore: Miss Warren Welch, Genere: SAGGISTICA
-ISBN: 2324059571870, Title: Those Barren Leaves, Thrones, Dominations, Anno Pubblicazione: 1983-09-20, Pagine: 37, Autore: Ronny Conroy, Genere: SAGGISTICA
-ISBN: 7818539146871, Title: Down to a Sunless Sea, Anno Pubblicazione: 1990-04-19, Pagine: 346, Periodico: MENSILE
-ISBN: 1630414813427, Title: The Heart Is Deceitful Above All Things, Anno Pubblicazione: 2000-04-14, Pagine: 562, Periodico: SEMESTRALE
-ISBN: 5885383593895, Title: I Know Why the Caged Bird Sings, Anno Pubblicazione: 2015-01-17, Pagine: 415, Autore: Ms. Latosha Altenwerth, Genere: FAVOLE
-ISBN: 3505161468144, Title: The Last Temptation, Anno Pubblicazione: 1986-01-22, Pagine: 242, Periodico: SETTIMANALE
-ISBN: 2843223410511, Title: Of Mice and Men, Anno Pubblicazione: 2017-12-05, Pagine: 264, Autore: Tasha Barrows, Genere: CUCINA
-ISBN: 6079289038355, Title: A Monstrous Regiment of Women, Anno Pubblicazione: 1953-10-06, Pagine: 560, Periodico: SETTIMANALE
-ISBN: 8552919788343, Title: A Swiftly Tilting Planet, Anno Pubblicazione: 1988-12-07, Pagine: 482, Autore: Mr. Deangelo Paucek, Genere: STORIA
-ISBN: 8237911720253, Title: Mother Night, Anno Pubblicazione: 1960-04-10, Pagine: 440, Periodico: MENSILE
-ISBN: 8547031427878, Title: The Wives of Bath, Anno Pubblicazione: 1982-04-06, Pagine: 555, Autore: Hollie Rempel, Genere: ROMANZO
-ISBN: 9841251488590, Title: Of Mice and Men, Anno Pubblicazione: 1994-04-17, Pagine: 517, Periodico: SETTIMANALE
-ISBN: 3875341068000, Title: No Longer at Ease, Anno Pubblicazione: 1956-10-17, Pagine: 128, Periodico: SEMESTRALE
-ISBN: 2363797441864, Title: Paths of Glory, Anno Pubblicazione: 1974-10-20, Pagine: 249, Autore: Miles Orn II, Genere: FAVOLE
-ISBN: 2975562852134, Title: Precious Bane, Anno Pubblicazione: 1960-07-06, Pagine: 345, Periodico: SEMESTRALE
-ISBN: 7178621531409, Title: The Way of All Flesh, Anno Pubblicazione: 2012-02-25, Pagine: 462, Autore: Jc Lynch, Genere: CLASSICI
-ISBN: 9700231337402, Title: The Stars' Tennis Balls, Anno Pubblicazione: 1981-09-07, Pagine: 379, Periodico: SETTIMANALE
-ISBN: 7497213087655, Title: The Torment of Others, Anno Pubblicazione: 1961-05-26, Pagine: 381, Periodico: MENSILE
-ISBN: 8543220609431, Title: In a Dry Season, Anno Pubblicazione: 1974-10-28, Pagine: 394, Autore: Santo Skiles, Genere: FANTASCIENZA
-ISBN: 4421486471060, Title: Vanity Fair, Anno Pubblicazione: 1982-10-18, Pagine: 108, Periodico: SEMESTRALE
-ISBN: 8655694319424, Title: Jesting Pilate, Anno Pubblicazione: 1992-04-17, Pagine: 574, Periodico: SETTIMANALE
-ISBN: 3726620455442, Title: The Moon by Night, Anno Pubblicazione: 1978-09-18, Pagine: 287, Periodico: SETTIMANALE
-ISBN: 9008831698362, Title: No Country for Old Men, Anno Pubblicazione: 1975-05-07, Pagine: 104, Periodico: SETTIMANALE
-ISBN: 1042198046806, Title: Specimen Days, Anno Pubblicazione: 2002-02-11, Pagine: 346, Autore: Maegan Hartmann, Genere: ROMANZO
-ISBN: 8483929294777, Title: No Longer at Ease, Anno Pubblicazione: 1954-04-01, Pagine: 344, Autore: Sandra Waelchi, Genere: STORIA
-ISBN: 7142823635280, Title: Vanity Fair, Anno Pubblicazione: 1960-12-28, Pagine: 21, Autore: Ms. Jessie Heathcote, Genere: FANTASCIENZA
-ISBN: 1971515977478, Title: Jacob Have I Loved, Anno Pubblicazione: 1985-09-24, Pagine: 95, Periodico: MENSILE
-ISBN: 4886866298671, Title: A Glass of Blessings, Anno Pubblicazione: 2018-08-25, Pagine: 87, Autore: Melodi Schumm, Genere: ROMANZO
-ISBN: 2321257904895, Title: When the Green Woods Laugh, Anno Pubblicazione: 2013-10-12, Pagine: 472, Periodico: SEMESTRALE
-ISBN: 7552620351351, Title: Mother Night, Anno Pubblicazione: 2010-10-20, Pagine: 114, Autore: Mack Walker, Genere: SAGGISTICA
-ISBN: 9293023481011, Title: Endless Night, Anno Pubblicazione: 1991-11-11, Pagine: 592, Periodico: SETTIMANALE
-ISBN: 6669913956205, Title: Moab Is My Washpot, Anno Pubblicazione: 1962-04-11, Pagine: 563, Periodico: MENSILE
-ISBN: 1639985946446, Title: To a God Unknown, Anno Pubblicazione: 1977-04-15, Pagine: 202, Periodico: SEMESTRALE
-ISBN: 1786373884698, Title: A Passage to India, Anno Pubblicazione: 1951-08-12, Pagine: 193, Periodico: MENSILE
-ISBN: 1229724217866, Title: Jesting Pilate, Anno Pubblicazione: 2010-04-13, Pagine: 244, Periodico: SETTIMANALE
-ISBN: 5013525192602, Title: The Last Enemy, Anno Pubblicazione: 1952-05-05, Pagine: 396, Autore: Mechelle Towne DDS, Genere: CLASSICI
-ISBN: 5216663025502, Title: It's a Battlefield, Anno Pubblicazione: 1987-08-07, Pagine: 536, Autore: Morris Haley, Genere: ARTE
-ISBN: 8104279525401, Title: No Highway, Anno Pubblicazione: 1955-09-01, Pagine: 69, Autore: Erik Jacobs, Genere: FANTASY
-ISBN: 7131515686582, Title: By Grand Central Station I Sat Down and Wept, Anno Pubblicazione: 1993-09-24, Pagine: 193, Periodico: SEMESTRALE
-ISBN: 5449426359510, Title: Of Human Bondage, Anno Pubblicazione: 1987-10-20, Pagine: 302, Autore: Dr. Myron Gulgowski, Genere: SAGGISTICA
-ISBN: 7000059021254, Title: The Heart Is a Lonely Hunter, Anno Pubblicazione: 2012-01-26, Pagine: 433, Periodico: SEMESTRALE
-ISBN: 4912908179912, Title: The Moving Finger, Anno Pubblicazione: 1998-01-11, Pagine: 195, Periodico: SETTIMANALE
-ISBN: 2754222325265, Title: Look Homeward, Angel, Anno Pubblicazione: 1994-02-28, Pagine: 559, Autore: Mrs. Shirlee Simonis, Genere: HORROR
-ISBN: 5145592238346, Title: The Golden Bowl, Anno Pubblicazione: 2020-08-17, Pagine: 62, Autore: Darren Leffler, Genere: ARTE
-ISBN: 5521570887953, Title: The Green Bay Tree, Anno Pubblicazione: 1966-07-03, Pagine: 373, Autore: Lore Christiansen III, Genere: ARTE
-ISBN: 4780187108394, Title: The Stars' Tennis Balls, Anno Pubblicazione: 1984-12-09, Pagine: 310, Periodico: MENSILE
-ISBN: 8282427516852, Title: The Golden Bowl, Anno Pubblicazione: 2004-01-25, Pagine: 594, Periodico: SETTIMANALE
-ISBN: 1180645899132, Title: Butter In a Lordly Dish, Anno Pubblicazione: 1987-09-19, Pagine: 482, Autore: Mr. Omar Osinski, Genere: HORROR
-ISBN: 2658790042154, Title: It's a Battlefield, Anno Pubblicazione: 1958-11-21, Pagine: 124, Periodico: MENSILE
-ISBN: 9264737201010, Title: I Know Why the Caged Bird Sings, Anno Pubblicazione: 1975-01-02, Pagine: 34, Periodico: SEMESTRALE
-ISBN: 5841431090775, Title: Number the Stars, Anno Pubblicazione: 2003-09-18, Pagine: 322, Periodico: SETTIMANALE
-ISBN: 7057360065752, Title: Carrion Comfort, Anno Pubblicazione: 1987-01-16, Pagine: 51, Periodico: MENSILE
-ISBN: 3454017455535, Title: Tiger! Tiger!, Anno Pubblicazione: 1952-07-07, Pagine: 569, Autore: Janay Harber, Genere: FAVOLE
-ISBN: 9103938624573, Title: I Will Fear No Evil, Anno Pubblicazione: 1994-02-11, Pagine: 349, Periodico: SETTIMANALE
-ISBN: 8239064059011, Title: Paths of Glory, Anno Pubblicazione: 1961-01-23, Pagine: 574, Periodico: SETTIMANALE
-ISBN: 4715386031923, Title: Many Waters, Anno Pubblicazione: 1960-01-07, Pagine: 306, Autore: Clifton Bartoletti, Genere: CLASSICI
-ISBN: 6145770928952, Title: To Sail Beyond the Sunset, Anno Pubblicazione: 1961-06-08, Pagine: 497, Periodico: SETTIMANALE
-ISBN: 8689284948727, Title: I Will Fear No Evil, Anno Pubblicazione: 1962-09-19, Pagine: 114, Periodico: MENSILE
-ISBN: 7663647520655, Title: If I Forget Thee Jerusalem, Anno Pubblicazione: 2002-06-13, Pagine: 60, Autore: Parker Romaguera, Genere: CLASSICI
-ISBN: 9815872076078, Title: The Wives of Bath, Anno Pubblicazione: 1990-05-27, Pagine: 491, Periodico: MENSILE
-ISBN: 3987946857468, Title: The Grapes of Wrath, Anno Pubblicazione: 1978-05-16, Pagine: 541, Autore: James Gottlieb, Genere: STORIA
-ISBN: 3216706363126, Title: Recalled to Life, Anno Pubblicazione: 1964-08-19, Pagine: 312, Periodico: SETTIMANALE
-ISBN: 6415057443396, Title: No Longer at Ease, Anno Pubblicazione: 1988-07-28, Pagine: 585, Autore: Darren Hodkiewicz IV, Genere: ARTE
-ISBN: 9783670235290, Title: After Many a Summer Dies the Swan, Anno Pubblicazione: 1963-09-25, Pagine: 347, Periodico: SEMESTRALE
-ISBN: 5037826375500, Title: Eyeless in Gaza, Anno Pubblicazione: 1973-08-11, Pagine: 6, Autore: Miss Jimmie Hoeger, Genere: STORIA
-ISBN: 1306015704450, Title: Rosemary Sutcliff, Anno Pubblicazione: 2021-07-14, Pagine: 213, Autore: Miss Winona Jast, Genere: ROMANZO
-ISBN: 4048058444715, Title: The Torment of Others, Anno Pubblicazione: 1978-07-07, Pagine: 4, Autore: Courtney Bashirian, Genere: STORIA
-ISBN: 3923386013138, Title: The Line of Beauty, Anno Pubblicazione: 1994-05-17, Pagine: 162, Periodico: SETTIMANALE
-ISBN: 8928346062241, Title: Dance Dance Dance, Anno Pubblicazione: 1992-03-14, Pagine: 170, Periodico: SEMESTRALE
-ISBN: 4855418472549, Title: The Other Side of Silence, Anno Pubblicazione: 2022-05-06, Pagine: 3, Periodico: SEMESTRALE
-ISBN: 6096283878420, Title: In Death Ground, Anno Pubblicazione: 1987-05-18, Pagine: 230, Periodico: SEMESTRALE
-ISBN: 7042847529198, Title: Alone on a Wide, Wide Sea, Anno Pubblicazione: 1991-08-08, Pagine: 507, Autore: Luigi Christiansen, Genere: HORROR
-ISBN: 7249240331163, Title: Jesting Pilate, Anno Pubblicazione: 1960-12-01, Pagine: 231, Autore: Edmund Heidenreich, Genere: FANTASCIENZA
-ISBN: 6221844470699, Title: A Time to Kill, Anno Pubblicazione: 2007-02-09, Pagine: 133, Autore: Tyler Nader, Genere: FANTASCIENZA
-ISBN: 8639460440347, Title: Dying of the Light, Anno Pubblicazione: 1954-01-25, Pagine: 388, Autore: Nada DuBuque MD, Genere: FANTASY
-ISBN: 4209596617366, Title: Jesting Pilate, Anno Pubblicazione: 1958-10-04, Pagine: 382, Periodico: MENSILE
-ISBN: 9275945988953, Title: The Lathe of Heaven, Anno Pubblicazione: 1957-10-01, Pagine: 24, Periodico: SEMESTRALE
-ISBN: 6804435783434, Title: Of Human Bondage, Anno Pubblicazione: 1956-06-11, Pagine: 485, Periodico: SEMESTRALE
-ISBN: 4563365187428, Title: Let Us Now Praise Famous Men, Anno Pubblicazione: 2000-05-21, Pagine: 448, Autore: Mrs. Margery Lesch, Genere: ARTE
-ISBN: 5519554417185, Title: Dulce et Decorum Est, Anno Pubblicazione: 2003-04-16, Pagine: 360, Autore: Viva Feeney, Genere: CUCINA
-ISBN: 4791090619670, Title: The Road Less Traveled, Anno Pubblicazione: 2000-07-01, Pagine: 182, Autore: Marylou Swift, Genere: STORIA
-ISBN: 1628748200663, Title: The Grapes of Wrath, Anno Pubblicazione: 1984-04-27, Pagine: 124, Periodico: SETTIMANALE
-ISBN: 6592712299299, Title: A Monstrous Regiment of Women, Anno Pubblicazione: 2002-10-22, Pagine: 171, Periodico: MENSILE
-ISBN: 5486622018102, Title: An Acceptable Time, Anno Pubblicazione: 1990-02-07, Pagine: 283, Periodico: MENSILE
-ISBN: 7977972532776, Title: The Line of Beauty, Anno Pubblicazione: 1964-01-17, Pagine: 71, Autore: Olimpia Quitzon, Genere: ARTE
-ISBN: 5205662901823, Title: Ego Dominus Tuus, Anno Pubblicazione: 2011-08-24, Pagine: 244, Autore: Jim VonRueden, Genere: ARTE
-ISBN: 8213432743286, Title: Jesting Pilate, Anno Pubblicazione: 2001-09-06, Pagine: 345, Periodico: MENSILE
-ISBN: 2595530218387, Title: Surprised by Joy, Anno Pubblicazione: 1956-05-03, Pagine: 401, Autore: Callie Kshlerin, Genere: FANTASY
-ISBN: 2823955998051, Title: Antic Hay, Anno Pubblicazione: 1975-03-06, Pagine: 353, Periodico: SEMESTRALE
-ISBN: 1062639672703, Title: If Not Now, When?, Anno Pubblicazione: 1960-06-24, Pagine: 92, Periodico: SEMESTRALE
-ISBN: 2843579204015, Title: Consider Phlebas, Anno Pubblicazione: 1951-03-14, Pagine: 579, Periodico: SETTIMANALE
-ISBN: 9719323167070, Title: The Violent Bear It Away, Anno Pubblicazione: 2008-11-11, Pagine: 34, Autore: Oneida Conroy, Genere: FAVOLE
-ISBN: 4547662868706, Title: The Golden Apples of the Sun, Anno Pubblicazione: 2017-06-11, Pagine: 263, Autore: Nicole Ortiz IV, Genere: ROMANZO
-ISBN: 5735065819121, Title: Absalom, Absalom!, Anno Pubblicazione: 1985-05-15, Pagine: 421, Periodico: SETTIMANALE
-ISBN: 5154859906120, Title: Ego Dominus Tuus, Anno Pubblicazione: 1970-09-19, Pagine: 88, Autore: Dr. Frederic Donnelly, Genere: STORIA
-ISBN: 3234654069534, Title: O Jerusalem!, Anno Pubblicazione: 1980-09-09, Pagine: 259, Autore: Elmo Thiel, Genere: CUCINA
-ISBN: 7448645364533, Title: The Painted Veil, Anno Pubblicazione: 1993-02-03, Pagine: 404, Autore: Dr. Todd Kuhic, Genere: STORIA
-ISBN: 4575732402358, Title: This Lime Tree Bower, Anno Pubblicazione: 2005-03-16, Pagine: 586, Periodico: SEMESTRALE
-ISBN: 6774823708089, Title: Jacob Have I Loved, Anno Pubblicazione: 1950-08-04, Pagine: 589, Periodico: MENSILE
-ISBN: 8576144614796, Title: Quo Vadis, Anno Pubblicazione: 1973-11-16, Pagine: 146, Autore: Ms. Alva Langworth, Genere: SAGGISTICA
-ISBN: 8865794243543, Title: The Cricket on the Hearth, Anno Pubblicazione: 1980-03-06, Pagine: 285, Periodico: SEMESTRALE
-ISBN: 1981177177424, Title: Such, Such Were the Joys, Anno Pubblicazione: 1990-05-28, Pagine: 456, Periodico: SETTIMANALE
-ISBN: 9275473549828, Title: A Passage to India, Anno Pubblicazione: 1972-02-07, Pagine: 231, Autore: Alphonso Oberbrunner, Genere: STORIA
-ISBN: 6921897923700, Title: The Mirror Crack'd from Side to Side, Anno Pubblicazione: 2017-06-09, Pagine: 123, Autore: Wyatt Krajcik, Genere: ROMANZO
-ISBN: 4668130233238, Title: A Summer Bird-Cage, Anno Pubblicazione: 1975-05-06, Pagine: 324, Periodico: SETTIMANALE
-ISBN: 1395355469155, Title: The Line of Beauty, Anno Pubblicazione: 2021-12-12, Pagine: 469, Autore: Mabel Waters, Genere: FAVOLE
-ISBN: 8557264310238, Title: Beneath the Bleeding, Anno Pubblicazione: 1991-12-19, Pagine: 521, Autore: Annalisa Schoen MD, Genere: ARTE
-ISBN: 8173472797876, Title: Lilies of the Field, Anno Pubblicazione: 1982-06-22, Pagine: 118, Autore: Mrs. Danelle Kris, Genere: HORROR
-ISBN: 1705415415043, Title: To Your Scattered Bodies Go, Anno Pubblicazione: 1984-06-24, Pagine: 174, Autore: Mr. Joshua Connelly, Genere: ARTE
-ISBN: 7778478055393, Title: Tirra Lirra by the River, Anno Pubblicazione: 1982-06-22, Pagine: 220, Periodico: SETTIMANALE
-ISBN: 3198629267131, Title: The Monkey's Raincoat, Anno Pubblicazione: 2022-08-02, Pagine: 177, Periodico: SEMESTRALE
-ISBN: 7612318502363, Title: I Know Why the Caged Bird Sings, Anno Pubblicazione: 2010-09-22, Pagine: 292, Autore: Shantelle Frami, Genere: SAGGISTICA
-ISBN: 7341769844990, Title: In Death Ground, Anno Pubblicazione: 2002-10-13, Pagine: 457, Periodico: MENSILE
-ISBN: 3852465685640, Title: The Yellow Meads of Asphodel, Anno Pubblicazione: 2016-04-13, Pagine: 411, Periodico: SEMESTRALE
-ISBN: 8328314985275, Title: Consider Phlebas, Anno Pubblicazione: 1969-01-16, Pagine: 414, Autore: Keiko Casper Jr., Genere: CLASSICI
-ISBN: 9550701847381, Title: A Glass of Blessings, Anno Pubblicazione: 1951-08-27, Pagine: 80, Autore: Brain Senger MD, Genere: FANTASCIENZA
-ISBN: 9867096876351, Title: Have His Carcase, Anno Pubblicazione: 2001-03-20, Pagine: 355, Autore: Juan Breitenberg, Genere: ROMANZO
-ISBN: 8360604953755, Title: A Glass of Blessings, Anno Pubblicazione: 1978-11-27, Pagine: 142, Autore: Miss Wendell Reichel, Genere: SAGGISTICA
-ISBN: 8588319137910, Title: The Stars' Tennis Balls, Anno Pubblicazione: 1983-01-04, Pagine: 124, Periodico: MENSILE
-ISBN: 3288144855550, Title: The Skull Beneath the Skin, Anno Pubblicazione: 1955-11-06, Pagine: 154, Periodico: MENSILE
-ISBN: 7234170757392, Title: No Highway, Anno Pubblicazione: 2021-09-03, Pagine: 589, Autore: Felipe Stehr, Genere: CUCINA
-ISBN: 6232638852652, Title: If Not Now, When?, Anno Pubblicazione: 2004-04-23, Pagine: 161, Autore: Sharita Effertz, Genere: STORIA
-ISBN: 1085240246220, Title: Nectar in a Sieve, Anno Pubblicazione: 1974-01-05, Pagine: 335, Periodico: SETTIMANALE
-ISBN: 1679388994955, Title: Edna O'Brien, Anno Pubblicazione: 2005-06-20, Pagine: 461, Periodico: SEMESTRALE
-ISBN: 2493638120148, Title: Carrion Comfort, Anno Pubblicazione: 2022-01-10, Pagine: 388, Periodico: SEMESTRALE
-ISBN: 4190278412896, Title: Jacob Have I Loved, Anno Pubblicazione: 1992-11-23, Pagine: 256, Autore: Mary Schamberger, Genere: STORIA
-ISBN: 6484392207664, Title: The Little Foxes, Anno Pubblicazione: 1958-03-10, Pagine: 586, Periodico: MENSILE
-ISBN: 5839618498900, Title: Time of our Darkness, Anno Pubblicazione: 2019-09-23, Pagine: 128, Autore: Tawny Barton, Genere: ROMANZO
-ISBN: 3648527917435, Title: Dance Dance Dance, Anno Pubblicazione: 2001-05-28, Pagine: 391, Autore: Jorge Conroy, Genere: SAGGISTICA
-ISBN: 3110141067764, Title: The Moving Finger, Anno Pubblicazione: 1960-05-17, Pagine: 530, Periodico: SETTIMANALE
-ISBN: 4825379185950, Title: Lilies of the Field, Anno Pubblicazione: 1999-01-16, Pagine: 330, Autore: Anastacia Dickinson DVM, Genere: STORIA
-ISBN: 4571230613883, Title: Infinite Jest, Anno Pubblicazione: 1970-02-10, Pagine: 148, Autore: Nettie Lakin, Genere: ROMANZO
-ISBN: 3751746170752, Title: A Handful of Dust, Anno Pubblicazione: 2000-01-10, Pagine: 184, Autore: Azzie Stiedemann, Genere: FANTASCIENZA
-ISBN: 1753136178589, Title: East of Eden, Anno Pubblicazione: 1951-11-03, Pagine: 38, Periodico: MENSILE
-ISBN: 6529180162104, Title: Great Work of Time, Anno Pubblicazione: 1994-08-16, Pagine: 114, Autore: Deborah Towne I, Genere: SAGGISTICA
-ISBN: 7980399545031, Title: The Moving Finger, Anno Pubblicazione: 1960-06-10, Pagine: 434, Autore: Pete Lakin, Genere: STORIA
-ISBN: 4633497472909, Title: An Instant In The Wind, Anno Pubblicazione: 2014-10-10, Pagine: 489, Periodico: SETTIMANALE
-ISBN: 8583804796514, Title: A Scanner Darkly, Anno Pubblicazione: 1985-08-17, Pagine: 451, Autore: Marcos Walker, Genere: CUCINA
-ISBN: 4667982457837, Title: After Many a Summer Dies the Swan, Anno Pubblicazione: 1995-11-17, Pagine: 365, Autore: Randall Beatty, Genere: ARTE
-ISBN: 8467960899641, Title: I Know Why the Caged Bird Sings, Anno Pubblicazione: 1983-05-02, Pagine: 112, Periodico: MENSILE
-ISBN: 5732897457311, Title: No Longer at Ease, Anno Pubblicazione: 2017-01-20, Pagine: 370, Periodico: SEMESTRALE
-ISBN: 8228412627859, Title: Carrion Comfort, Anno Pubblicazione: 2008-08-12, Pagine: 181, Autore: Frederick Gutmann, Genere: FANTASCIENZA
-ISBN: 3404523582594, Title: The Widening Gyre, Anno Pubblicazione: 1994-06-23, Pagine: 317, Autore: Hanna Hagenes, Genere: FANTASCIENZA
-ISBN: 9327034162427, Title: Cover Her Face, Anno Pubblicazione: 2016-08-22, Pagine: 202, Autore: Devona Turner Sr., Genere: CUCINA
-ISBN: 9120936394571, Title: The Wealth of Nations, Anno Pubblicazione: 1969-04-27, Pagine: 51, Autore: Selene Sanford, Genere: SAGGISTICA
-ISBN: 7853194565049, Title: The Millstone, Anno Pubblicazione: 1974-10-16, Pagine: 149, Autore: Damon Kunde I, Genere: CLASSICI
-ISBN: 5118947016298, Title: That Good Night, Anno Pubblicazione: 1961-12-06, Pagine: 132, Periodico: SETTIMANALE
-ISBN: 9530948823690, Title: If Not Now, When?, Anno Pubblicazione: 1957-08-25, Pagine: 0, Periodico: MENSILE
-ISBN: 2526744557247, Title: Ego Dominus Tuus, Anno Pubblicazione: 1956-11-05, Pagine: 130, Periodico: SETTIMANALE
-ISBN: 8683632338369, Title: Such, Such Were the Joys, Anno Pubblicazione: 1978-06-03, Pagine: 252, Autore: Miss Ara Jenkins, Genere: STORIA
-ISBN: 1034374912631, Title: This Lime Tree Bower, Anno Pubblicazione: 2004-01-24, Pagine: 52, Periodico: SETTIMANALE
-ISBN: 6989731274595, Title: Time To Murder And Create, Anno Pubblicazione: 2013-11-28, Pagine: 496, Autore: Rigoberto Kerluke, Genere: STORIA
-ISBN: 2498418194257, Title: The Soldier's Art, Anno Pubblicazione: 1993-09-11, Pagine: 358, Autore: Cleo Lebsack, Genere: FANTASY
-ISBN: 8944203939402, Title: Rosemary Sutcliff, Anno Pubblicazione: 2003-12-07, Pagine: 120, Periodico: MENSILE
-ISBN: 9429955000987, Title: The Waste Land, Anno Pubblicazione: 1978-09-27, Pagine: 382, Periodico: SETTIMANALE
-ISBN: 1711807728755, Title: Butter In a Lordly Dish, Anno Pubblicazione: 1959-07-18, Pagine: 408, Periodico: SEMESTRALE
-ISBN: 4146142351812, Title: Death Be Not Proud, Anno Pubblicazione: 1975-05-21, Pagine: 203, Periodico: MENSILE
-ISBN: 7909047381368, Title: The Golden Apples of the Sun, Anno Pubblicazione: 2021-06-05, Pagine: 305, Autore: Maximo Okuneva, Genere: CUCINA
-ISBN: 5564498308505, Title: A Many-Splendoured Thing, Anno Pubblicazione: 1984-01-11, Pagine: 384, Autore: Sheena Brown, Genere: SAGGISTICA
-ISBN: 1677443726712, Title: A Catskill Eagle, Anno Pubblicazione: 1968-03-12, Pagine: 511, Periodico: SEMESTRALE
-ISBN: 8698726841064, Title: Dance Dance Dance, Anno Pubblicazione: 1986-01-11, Pagine: 54, Autore: Genevieve Hermann, Genere: FANTASCIENZA
-ISBN: 2792686256185, Title: If Not Now, When?, Anno Pubblicazione: 1973-07-10, Pagine: 580, Periodico: SETTIMANALE
-ISBN: 5287701752864, Title: When the Green Woods Laugh, Anno Pubblicazione: 1964-12-01, Pagine: 23, Autore: Calvin Brekke, Genere: CUCINA
-ISBN: 8451894759038, Title: To a God Unknown, Anno Pubblicazione: 1998-04-15, Pagine: 261, Autore: Brandon Cronin Jr., Genere: FANTASY
-ISBN: 9729921337582, Title: Carrion Comfort, Anno Pubblicazione: 1959-05-13, Pagine: 148, Autore: Zetta Rohan, Genere: CUCINA
-ISBN: 1707355126403, Title: Terrible Swift Sword, Anno Pubblicazione: 2015-05-01, Pagine: 207, Autore: Sung Gleason, Genere: FANTASY
-ISBN: 6046849753398, Title: If I Forget Thee Jerusalem, Anno Pubblicazione: 1988-07-10, Pagine: 480, Periodico: SETTIMANALE
-ISBN: 2519228653134, Title: Pale Kings and Princes, Anno Pubblicazione: 1964-10-10, Pagine: 81, Autore: Elliot Davis, Genere: SAGGISTICA
-ISBN: 6686640872555, Title: The Parliament of Man, Anno Pubblicazione: 1980-07-04, Pagine: 265, Periodico: SEMESTRALE
-ISBN: 3745218299585, Title: The Heart Is Deceitful Above All Things, Anno Pubblicazione: 1990-07-02, Pagine: 415, Autore: Randall Flatley, Genere: FANTASY
-ISBN: 8428365166562, Title: Cabbages and Kings, Anno Pubblicazione: 1996-03-19, Pagine: 278, Periodico: SETTIMANALE
-ISBN: 2760967016795, Title: The Proper Study, Anno Pubblicazione: 2020-04-03, Pagine: 547, Autore: Son Gusikowski, Genere: HORROR
-ISBN: 2496709281218, Title: Frequent Hearses, Anno Pubblicazione: 1973-12-06, Pagine: 192, Autore: Ermelinda Borer, Genere: ROMANZO
-ISBN: 8820182657698, Title: The Daffodil Sky, Anno Pubblicazione: 1961-05-17, Pagine: 595, Autore: Carisa Gleichner, Genere: FANTASY
-ISBN: 8125791862471, Title: Sleep the Brave, Anno Pubblicazione: 1971-05-21, Pagine: 213, Periodico: MENSILE
-ISBN: 1912911283465, Title: I Know Why the Caged Bird Sings, Anno Pubblicazione: 2007-02-13, Pagine: 369, Autore: Miss Refugio Murray, Genere: FANTASCIENZA
-ISBN: 3597174817759, Title: By Grand Central Station I Sat Down and Wept, Anno Pubblicazione: 1995-06-13, Pagine: 346, Periodico: SETTIMANALE
-ISBN: 8311091361814, Title: A Time of Gifts, Anno Pubblicazione: 1954-02-07, Pagine: 75, Periodico: SEMESTRALE
-ISBN: 6928180897815, Title: I Sing the Body Electric, Anno Pubblicazione: 1951-10-09, Pagine: 515, Periodico: MENSILE
-ISBN: 2448218137158, Title: The Mirror Crack'd from Side to Side, Anno Pubblicazione: 1986-06-05, Pagine: 255, Periodico: SEMESTRALE
-ISBN: 1892649566012, Title: Blue Remembered Earth, Anno Pubblicazione: 1991-07-24, Pagine: 574, Autore: Miss Ethan Hayes, Genere: ARTE
-ISBN: 4366547235686, Title: Carrion Comfort, Anno Pubblicazione: 1991-04-21, Pagine: 58, Periodico: MENSILE
-ISBN: 1096411152181, Title: To Your Scattered Bodies Go, Anno Pubblicazione: 1958-02-15, Pagine: 464, Periodico: MENSILE
-ISBN: 2640353028748, Title: The Wives of Bath, Anno Pubblicazione: 2008-07-28, Pagine: 445, Periodico: MENSILE
-ISBN: 8426128611960, Title: Gone with the Wind, Anno Pubblicazione: 2017-11-13, Pagine: 452, Autore: Ms. Clement Hansen, Genere: CLASSICI
+ISBN: 5908827132980 - Title: The Soldier's Art - Anno Pubblicazione: 1955-03-12 - Pagine: 127 - Periodico: MENSILE
+ISBN: 7841940742521 - Title: The Yellow Meads of Asphodel - Anno Pubblicazione: 1985-10-14 - Pagine: 188 - Periodico: MENSILE
+ISBN: 4779125386275 - Title: Sleep the Brave - Anno Pubblicazione: 2009-07-27 - Pagine: 180 - Autore: Ms. Marquis Franecki - Genere: HORROR
+ISBN: 2649434475524 - Title: Tirra Lirra by the River - Anno Pubblicazione: 1968-04-09 - Pagine: 476 - Autore: Tawna Littel - Genere: CUCINA
+ISBN: 5091895201629 - Title: After Many a Summer Dies the Swan - Anno Pubblicazione: 1971-07-03 - Pagine: 197 - Autore: Taunya Hagenes - Genere: FANTASCIENZA
+ISBN: 3952957071870 - Title: A Many-Splendoured Thing - Anno Pubblicazione: 1967-01-19 - Pagine: 575 - Autore: Berenice Schuster - Genere: CUCINA
+ISBN: 8288595966078 - Title: This Side of Paradise - Anno Pubblicazione: 1975-01-07 - Pagine: 436 - Periodico: SEMESTRALE
+ISBN: 2007248444267 - Title: Down to a Sunless Sea - Anno Pubblicazione: 2013-06-23 - Pagine: 351 - Autore: Charmain VonRueden III - Genere: ARTE
+ISBN: 4341704878453 - Title: Fear and Trembling - Anno Pubblicazione: 2010-11-25 - Pagine: 395 - Periodico: SETTIMANALE
+ISBN: 5870215566269 - Title: Brandy of the Damned - Anno Pubblicazione: 1962-06-11 - Pagine: 5 - Periodico: SEMESTRALE
+ISBN: 5114351762260 - Title: Surprised by Joy - Anno Pubblicazione: 1980-01-09 - Pagine: 463 - Periodico: SETTIMANALE
+ISBN: 3909881147700 - Title: For Whom the Bell Tolls - Anno Pubblicazione: 1953-08-03 - Pagine: 468 - Autore: Efren Kiehn - Genere: SAGGISTICA
+ISBN: 6129689897037 - Title: What's Become of Waring - Anno Pubblicazione: 1963-12-12 - Pagine: 10 - Periodico: SEMESTRALE
+ISBN: 6155746385031 - Title: Things Fall Apart - Anno Pubblicazione: 1979-03-12 - Pagine: 40 - Periodico: SETTIMANALE
+ISBN: 7962717439361 - Title: O Jerusalem! - Anno Pubblicazione: 2012-02-18 - Pagine: 244 - Autore: Daniela Lemke PhD - Genere: FANTASY
+ISBN: 9307842431143 - Title: Taming a Sea Horse - Anno Pubblicazione: 1990-02-02 - Pagine: 382 - Autore: Valencia Lemke - Genere: CUCINA
+ISBN: 2488412919157 - Title: Now Sleeps the Crimson Petal - Anno Pubblicazione: 1985-09-26 - Pagine: 85 - Periodico: MENSILE
+ISBN: 9091081350292 - Title: Terrible Swift Sword - Anno Pubblicazione: 1954-02-04 - Pagine: 356 - Autore: Dave Weissnat - Genere: CLASSICI
+ISBN: 9692112114891 - Title: Ring of Bright Water - Anno Pubblicazione: 1976-03-16 - Pagine: 505 - Periodico: MENSILE
+ISBN: 1171926249691 - Title: The Wives of Bath - Anno Pubblicazione: 1985-06-10 - Pagine: 237 - Autore: Bruno Von - Genere: CLASSICI
+ISBN: 5540078322625 - Title: Pale Kings and Princes - Anno Pubblicazione: 2010-10-04 - Pagine: 199 - Periodico: MENSILE
+ISBN: 4080436509373 - Title: Mr Standfast - Anno Pubblicazione: 1995-01-11 - Pagine: 181 - Periodico: SEMESTRALE
+ISBN: 2338771104674 - Title: A Farewell to Arms - Anno Pubblicazione: 1977-01-11 - Pagine: 369 - Autore: Kermit Bergstrom - Genere: FANTASY
+ISBN: 8095992309229 - Title: Such, Such Were the Joys - Anno Pubblicazione: 1956-08-24 - Pagine: 268 - Periodico: MENSILE
+ISBN: 6451486820066 - Title: This Side of Paradise - Anno Pubblicazione: 1986-10-15 - Pagine: 556 - Autore: Tambra Reilly - Genere: CUCINA
+ISBN: 3719261458305 - Title: Time of our Darkness - Anno Pubblicazione: 1991-12-12 - Pagine: 178 - Periodico: MENSILE
+ISBN: 2067083040516 - Title: This Side of Paradise - Anno Pubblicazione: 2007-04-22 - Pagine: 410 - Periodico: SEMESTRALE
+ISBN: 6385402480814 - Title: Wildfire at Midnight - Anno Pubblicazione: 1961-04-23 - Pagine: 587 - Periodico: SEMESTRALE
+ISBN: 1114687668778 - Title: The Yellow Meads of Asphodel - Anno Pubblicazione: 2018-01-22 - Pagine: 241 - Autore: Miss Jeniffer Kemmer - Genere: FAVOLE
+ISBN: 4868882676127 - Title: Let Us Now Praise Famous Men - Anno Pubblicazione: 1993-11-16 - Pagine: 308 - Periodico: MENSILE
+ISBN: 3617212262933 - Title: The Other Side of Silence - Anno Pubblicazione: 1953-05-04 - Pagine: 552 - Periodico: MENSILE
+ISBN: 2138115739298 - Title: Beneath the Bleeding - Anno Pubblicazione: 1973-07-27 - Pagine: 90 - Periodico: SEMESTRALE
+ISBN: 1804046171447 - Title: The Violent Bear It Away - Anno Pubblicazione: 1984-05-17 - Pagine: 439 - Autore: Erin Weissnat V - Genere: FAVOLE
+ISBN: 1833622735526 - Title: Of Mice and Men - Anno Pubblicazione: 2018-08-16 - Pagine: 328 - Periodico: SETTIMANALE
+ISBN: 2678568684111 - Title: Blue Remembered Earth - Anno Pubblicazione: 1958-01-02 - Pagine: 499 - Autore: Dr. Chauncey Osinski - Genere: FANTASY
+ISBN: 9597576865599 - Title: Lilies of the Field - Anno Pubblicazione: 1973-04-15 - Pagine: 401 - Periodico: MENSILE
+ISBN: 3145956986424 - Title: The Proper Study - Anno Pubblicazione: 1996-09-01 - Pagine: 576 - Periodico: SETTIMANALE
+ISBN: 1852859391131 - Title: The Proper Study - Anno Pubblicazione: 2012-08-02 - Pagine: 315 - Periodico: SEMESTRALE
+ISBN: 6636970073364 - Title: The Grapes of Wrath - Anno Pubblicazione: 1983-11-18 - Pagine: 194 - Periodico: SEMESTRALE
+ISBN: 6633575061229 - Title: The Mermaids Singing - Anno Pubblicazione: 1970-01-21 - Pagine: 52 - Periodico: MENSILE
+ISBN: 4989139568800 - Title: The Sun Also Rises - Anno Pubblicazione: 2016-10-06 - Pagine: 115 - Autore: Octavio Hammes - Genere: FANTASCIENZA
+ISBN: 1317883985779 - Title: The Wings of the Dove - Anno Pubblicazione: 1956-05-23 - Pagine: 162 - Autore: Mrs. Eneida Price - Genere: FANTASY
+ISBN: 7070561351477 - Title: Number the Stars - Anno Pubblicazione: 1953-12-21 - Pagine: 143 - Autore: Johnny Strosin - Genere: ARTE
+ISBN: 4733363581988 - Title: Postern of Fate - Anno Pubblicazione: 2004-01-08 - Pagine: 45 - Periodico: MENSILE
+ISBN: 2429407134542 - Title: Endless Night - Anno Pubblicazione: 1956-03-12 - Pagine: 143 - Autore: Maud Durgan - Genere: CUCINA
+ISBN: 7448863968367 - Title: I Know Why the Caged Bird Sings - Anno Pubblicazione: 1986-09-06 - Pagine: 424 - Periodico: SEMESTRALE
+ISBN: 3476810926911 - Title: The Parliament of Man - Anno Pubblicazione: 1971-05-16 - Pagine: 102 - Periodico: SEMESTRALE
+ISBN: 9811013575880 - Title: An Evil Cradling - Anno Pubblicazione: 1976-04-13 - Pagine: 149 - Periodico: SEMESTRALE
+ISBN: 1313463073148 - Title: Sleep the Brave - Anno Pubblicazione: 2006-03-28 - Pagine: 13 - Autore: Olen Rath - Genere: ROMANZO
+ISBN: 4392183502559 - Title: Lilies of the Field - Anno Pubblicazione: 1992-11-20 - Pagine: 546 - Autore: Rory Veum - Genere: ROMANZO
+ISBN: 2822929466954 - Title: Quo Vadis - Anno Pubblicazione: 1957-03-13 - Pagine: 555 - Autore: Jaquelyn Funk - Genere: FANTASCIENZA
+ISBN: 3424296220675 - Title: I Sing the Body Electric - Anno Pubblicazione: 2003-06-24 - Pagine: 588 - Periodico: SETTIMANALE
+ISBN: 7647183606320 - Title: The World, the Flesh and the Devil - Anno Pubblicazione: 1953-06-22 - Pagine: 582 - Autore: Aline Marks - Genere: CUCINA
+ISBN: 8150235674684 - Title: Many Waters - Anno Pubblicazione: 1960-07-10 - Pagine: 348 - Periodico: SEMESTRALE
+ISBN: 6293517361426 - Title: Vanity Fair - Anno Pubblicazione: 1996-04-14 - Pagine: 460 - Autore: Linwood Bayer - Genere: CUCINA
+ISBN: 7443319529134 - Title: Shall not Perish - Anno Pubblicazione: 1997-02-22 - Pagine: 326 - Autore: Yasuko Gleichner III - Genere: HORROR
+ISBN: 6249909930305 - Title: The Waste Land - Anno Pubblicazione: 2020-07-16 - Pagine: 94 - Autore: Mr. Sang Frami - Genere: HORROR
+ISBN: 2523685128405 - Title: A Darkling Plain - Anno Pubblicazione: 2000-03-04 - Pagine: 313 - Periodico: MENSILE
+ISBN: 5312008870598 - Title: A Darkling Plain - Anno Pubblicazione: 1963-05-10 - Pagine: 104 - Autore: Stephen Hansen - Genere: FAVOLE
+ISBN: 2857203104694 - Title: Dulce et Decorum Est - Anno Pubblicazione: 1956-04-06 - Pagine: 88 - Periodico: SETTIMANALE
+ISBN: 6362052989396 - Title: Unweaving the Rainbow - Anno Pubblicazione: 1958-06-17 - Pagine: 69 - Periodico: MENSILE
+ISBN: 3914113309292 - Title: Gone with the Wind - Anno Pubblicazione: 1956-07-25 - Pagine: 184 - Periodico: SEMESTRALE
+ISBN: 2550392063652 - Title: Death Be Not Proud - Anno Pubblicazione: 1990-01-10 - Pagine: 578 - Autore: Ms. Shad Streich - Genere: FANTASY
+ISBN: 3433566735420 - Title: Dulce et Decorum Est - Anno Pubblicazione: 2009-01-18 - Pagine: 408 - Periodico: SEMESTRALE
+ISBN: 5107972027740 - Title: Tender Is the Night - Anno Pubblicazione: 1967-06-13 - Pagine: 525 - Periodico: MENSILE
+ISBN: 7176346431033 - Title: Noli Me Tangere - Anno Pubblicazione: 2021-03-01 - Pagine: 424 - Autore: Rory Aufderhar - Genere: SAGGISTICA
+ISBN: 8434637109123 - Title: Jacob Have I Loved - Anno Pubblicazione: 1980-07-13 - Pagine: 332 - Autore: Dino Nikolaus - Genere: CUCINA
+ISBN: 8780431392919 - Title: The Wealth of Nations - Anno Pubblicazione: 1970-08-16 - Pagine: 187 - Periodico: SETTIMANALE
+ISBN: 8541138417322 - Title: The Green Bay Tree - Anno Pubblicazione: 2001-11-26 - Pagine: 108 - Autore: Dr. Andrew Mraz - Genere: HORROR
+ISBN: 4713491830281 - Title: I Sing the Body Electric - Anno Pubblicazione: 1971-03-09 - Pagine: 590 - Periodico: SEMESTRALE
+ISBN: 6007476404071 - Title: The Golden Apples of the Sun - Anno Pubblicazione: 1988-01-11 - Pagine: 563 - Autore: Marquis Durgan - Genere: FANTASY
+ISBN: 8003485524126 - Title: A Time to Kill - Anno Pubblicazione: 1961-07-27 - Pagine: 281 - Periodico: MENSILE
+ISBN: 9788640754251 - Title: For Whom the Bell Tolls - Anno Pubblicazione: 1968-11-26 - Pagine: 106 - Periodico: SEMESTRALE
+ISBN: 1747272054418 - Title: In a Glass Darkly - Anno Pubblicazione: 1994-06-24 - Pagine: 456 - Autore: Gricelda Murphy - Genere: FANTASCIENZA
+ISBN: 1962818507897 - Title: Tiger! Tiger! - Anno Pubblicazione: 1970-11-14 - Pagine: 552 - Autore: Mr. Juana Berge - Genere: STORIA
+ISBN: 8691098504432 - Title: That Good Night - Anno Pubblicazione: 1960-10-15 - Pagine: 550 - Autore: Marquis Bahringer - Genere: FAVOLE
+ISBN: 6148643162313 - Title: Ring of Bright Water - Anno Pubblicazione: 2015-11-16 - Pagine: 466 - Periodico: MENSILE
+ISBN: 3294079531675 - Title: Absalom, Absalom! - Anno Pubblicazione: 2013-01-19 - Pagine: 396 - Periodico: SETTIMANALE
+ISBN: 4986983127356 - Title: Rosemary Sutcliff - Anno Pubblicazione: 1983-10-27 - Pagine: 583 - Periodico: SEMESTRALE
+ISBN: 7603915251405 - Title: A Scanner Darkly - Anno Pubblicazione: 1966-06-12 - Pagine: 125 - Periodico: SETTIMANALE
+ISBN: 4055851646919 - Title: The Heart Is Deceitful Above All Things - Anno Pubblicazione: 2008-12-26 - Pagine: 459 - Autore: Jorge Kub - Genere: FANTASY
+ISBN: 6592920083019 - Title: By Grand Central Station I Sat Down and Wept - Anno Pubblicazione: 1962-01-17 - Pagine: 195 - Autore: Delaine Conroy - Genere: ARTE
+ISBN: 2218540201451 - Title: Nectar in a Sieve - Anno Pubblicazione: 1999-01-03 - Pagine: 467 - Autore: Rex Auer - Genere: HORROR
+ISBN: 2529669609049 - Title: Noli Me Tangere - Anno Pubblicazione: 1955-11-18 - Pagine: 269 - Autore: Mallory Bauch - Genere: FAVOLE
+ISBN: 5785410486765 - Title: Nectar in a Sieve - Anno Pubblicazione: 1999-10-12 - Pagine: 566 - Periodico: SEMESTRALE
+ISBN: 8323385275513 - Title: His Dark Materials - Anno Pubblicazione: 2021-06-27 - Pagine: 573 - Periodico: MENSILE
+ISBN: 8242175211298 - Title: The Soldier's Art - Anno Pubblicazione: 1971-07-06 - Pagine: 55 - Periodico: SETTIMANALE
+ISBN: 6875878870505 - Title: The Other Side of Silence - Anno Pubblicazione: 2004-05-27 - Pagine: 519 - Periodico: SETTIMANALE
+ISBN: 2838053167973 - Title: The Soldier's Art - Anno Pubblicazione: 1961-07-23 - Pagine: 133 - Autore: Jaime Kulas - Genere: FANTASCIENZA
+ISBN: 9941617700319 - Title: Of Mice and Men - Anno Pubblicazione: 1993-04-26 - Pagine: 397 - Autore: Trudy Ratke - Genere: ROMANZO
+ISBN: 1751044759341 - Title: The Grapes of Wrath - Anno Pubblicazione: 1987-05-23 - Pagine: 214 - Autore: Pablo Daniel DDS - Genere: FANTASY
+ISBN: 5263084902145 - Title: A Time to Kill - Anno Pubblicazione: 1994-07-18 - Pagine: 233 - Periodico: SEMESTRALE
+ISBN: 2367428248060 - Title: That Good Night - Anno Pubblicazione: 1971-08-17 - Pagine: 188 - Periodico: SETTIMANALE
+ISBN: 2730660342684 - Title: The Wives of Bath - Anno Pubblicazione: 1975-12-03 - Pagine: 90 - Periodico: SEMESTRALE
+ISBN: 9058493769494 - Title: The Road Less Traveled - Anno Pubblicazione: 1971-08-21 - Pagine: 426 - Periodico: SEMESTRALE
+ISBN: 6514425761346 - Title: The Torment of Others - Anno Pubblicazione: 1954-08-20 - Pagine: 170 - Periodico: MENSILE
+ISBN: 2282639086764 - Title: Many Waters - Anno Pubblicazione: 1962-06-02 - Pagine: 447 - Autore: Natisha Langworth - Genere: HORROR
+ISBN: 4538997131632 - Title: The Wind's Twelve Quarters - Anno Pubblicazione: 1979-09-22 - Pagine: 334 - Autore: Loyd Dibbert - Genere: ROMANZO
+ISBN: 3187552601179 - Title: I Will Fear No Evil - Anno Pubblicazione: 2022-02-19 - Pagine: 359 - Periodico: MENSILE
+ISBN: 3411123173033 - Title: The Parliament of Man - Anno Pubblicazione: 2006-01-13 - Pagine: 190 - Periodico: MENSILE
+ISBN: 6268736686893 - Title: Stranger in a Strange Land - Anno Pubblicazione: 2018-12-24 - Pagine: 286 - Periodico: SEMESTRALE
+ISBN: 9654351545014 - Title: The Monkey's Raincoat - Anno Pubblicazione: 2021-06-17 - Pagine: 69 - Autore: Howard Roob I - Genere: CUCINA
+ISBN: 8954153300902 - Title: Eyeless in Gaza - Anno Pubblicazione: 1960-09-05 - Pagine: 252 - Autore: Daryl Olson - Genere: STORIA
+ISBN: 2915183605221 - Title: A Time of Gifts - Anno Pubblicazione: 2008-07-08 - Pagine: 471 - Autore: Coretta Funk DDS - Genere: FAVOLE
+ISBN: 7630233330942 - Title: The Way Through the Woods - Anno Pubblicazione: 1964-12-14 - Pagine: 40 - Autore: Winfred Dickinson II - Genere: ARTE
+ISBN: 1132509839286 - Title: Blue Remembered Earth - Anno Pubblicazione: 1992-03-10 - Pagine: 305 - Autore: Ruthe Herman - Genere: FANTASCIENZA
+ISBN: 7222258128677 - Title: No Country for Old Men - Anno Pubblicazione: 2015-05-22 - Pagine: 385 - Autore: Indira Dibbert - Genere: ROMANZO
+ISBN: 1479579538006 - Title: Ring of Bright Water - Anno Pubblicazione: 1989-05-28 - Pagine: 113 - Periodico: SEMESTRALE
+ISBN: 4366845873548 - Title: The Parliament of Man - Anno Pubblicazione: 2010-02-10 - Pagine: 158 - Periodico: MENSILE
+ISBN: 3858477177385 - Title: Pale Kings and Princes - Anno Pubblicazione: 2015-03-27 - Pagine: 64 - Autore: Delois Lemke V - Genere: CUCINA
+ISBN: 9748936357045 - Title: The Monkey's Raincoat - Anno Pubblicazione: 1969-04-10 - Pagine: 143 - Periodico: MENSILE
+ISBN: 6277361929164 - Title: Ah, Wilderness! - Anno Pubblicazione: 2021-04-28 - Pagine: 123 - Periodico: SEMESTRALE
+ISBN: 7348235415475 - Title: Great Work of Time - Anno Pubblicazione: 1972-06-06 - Pagine: 28 - Autore: Carrie Keebler - Genere: STORIA
+ISBN: 9050601167533 - Title: Consider Phlebas - Anno Pubblicazione: 1966-05-11 - Pagine: 189 - Autore: Dr. Broderick Daugherty - Genere: CUCINA
+ISBN: 8671425704456 - Title: The Way of All Flesh - Anno Pubblicazione: 2000-08-09 - Pagine: 401 - Periodico: SEMESTRALE
+ISBN: 3695302978520 - Title: A Catskill Eagle - Anno Pubblicazione: 1996-10-27 - Pagine: 276 - Autore: So Swaniawski - Genere: FANTASCIENZA
+ISBN: 2876945173071 - Title: Fear and Trembling - Anno Pubblicazione: 2007-10-02 - Pagine: 201 - Autore: Annemarie Kutch PhD - Genere: CLASSICI
+ISBN: 1526078765260 - Title: Nectar in a Sieve - Anno Pubblicazione: 2003-02-26 - Pagine: 207 - Periodico: SETTIMANALE
+ISBN: 3986224640241 - Title: No Highway - Anno Pubblicazione: 1977-01-15 - Pagine: 362 - Autore: Alishia Rau - Genere: STORIA
+ISBN: 8262812059516 - Title: Antic Hay - Anno Pubblicazione: 1964-04-18 - Pagine: 376 - Periodico: MENSILE
+ISBN: 6105190985629 - Title: Paths of Glory - Anno Pubblicazione: 1951-05-22 - Pagine: 319 - Autore: Mrs. Wayne Stracke - Genere: CLASSICI
+ISBN: 1481382915716 - Title: Arms and the Man - Anno Pubblicazione: 2012-09-22 - Pagine: 377 - Autore: Yahaira Toy - Genere: FANTASY
+ISBN: 1754344395263 - Title: The Wind's Twelve Quarters - Anno Pubblicazione: 1977-12-14 - Pagine: 302 - Autore: Brigida Moore I - Genere: FANTASCIENZA
+ISBN: 5415442803805 - Title: The Mirror Crack'd from Side to Side - Anno Pubblicazione: 1972-01-01 - Pagine: 82 - Autore: Kurtis Wolff - Genere: FAVOLE
+ISBN: 2393286527428 - Title: Time To Murder And Create - Anno Pubblicazione: 1983-11-18 - Pagine: 161 - Autore: Pennie Fahey - Genere: CUCINA
+ISBN: 5641021280106 - Title: The Parliament of Man - Anno Pubblicazione: 2015-10-11 - Pagine: 443 - Periodico: SEMESTRALE
+ISBN: 5450971273791 - Title: Gone with the Wind - Anno Pubblicazione: 2000-05-22 - Pagine: 110 - Periodico: SETTIMANALE
+ISBN: 4699612316884 - Title: To Your Scattered Bodies Go - Anno Pubblicazione: 2010-04-05 - Pagine: 27 - Autore: Stephine Douglas PhD - Genere: STORIA
+ISBN: 6205536554740 - Title: Lilies of the Field - Anno Pubblicazione: 1982-06-12 - Pagine: 546 - Autore: Josue Rath - Genere: SAGGISTICA
+ISBN: 1353592426791 - Title: Dulce et Decorum Est - Anno Pubblicazione: 2002-10-06 - Pagine: 331 - Periodico: MENSILE
+ISBN: 1060086644485 - Title: A Scanner Darkly - Anno Pubblicazione: 1954-09-24 - Pagine: 10 - Periodico: SETTIMANALE
+ISBN: 1187432362020 - Title: The Curious Incident of the Dog in the Night-Time - Anno Pubblicazione: 1967-01-25 - Pagine: 573 - Periodico: SEMESTRALE
+ISBN: 5013083362432 - Title: All Passion Spent - Anno Pubblicazione: 2019-03-24 - Pagine: 81 - Autore: Von Goldner - Genere: FAVOLE
+ISBN: 7473663404121 - Title: Number the Stars - Anno Pubblicazione: 2003-07-26 - Pagine: 183 - Autore: Natalia Jacobi - Genere: SAGGISTICA
+ISBN: 6126356091067 - Title: For Whom the Bell Tolls - Anno Pubblicazione: 2000-09-18 - Pagine: 477 - Periodico: MENSILE
+ISBN: 4515060684655 - Title: Time of our Darkness - Anno Pubblicazione: 1997-01-28 - Pagine: 468 - Autore: Miss Alaina Hagenes - Genere: STORIA
+ISBN: 6224832862596 - Title: Waiting for the Barbarians - Anno Pubblicazione: 1962-01-19 - Pagine: 312 - Autore: Idell Koss - Genere: FANTASCIENZA
+ISBN: 5030615763672 - Title: Precious Bane - Anno Pubblicazione: 2008-11-26 - Pagine: 166 - Periodico: MENSILE
+ISBN: 2077394227107 - Title: As I Lay Dying - Anno Pubblicazione: 1963-08-07 - Pagine: 108 - Autore: Lona Maggio - Genere: FANTASY
+ISBN: 9782692608740 - Title: If I Forget Thee Jerusalem - Anno Pubblicazione: 1989-01-22 - Pagine: 253 - Autore: Buster Dietrich - Genere: FANTASCIENZA
+ISBN: 6091155378891 - Title: The Mirror Crack'd from Side to Side - Anno Pubblicazione: 1971-07-06 - Pagine: 22 - Autore: Mathew Haag IV - Genere: CUCINA
+ISBN: 7482301844560 - Title: Paths of Glory - Anno Pubblicazione: 1958-11-26 - Pagine: 287 - Periodico: SEMESTRALE
+ISBN: 5693643613641 - Title: Great Work of Time - Anno Pubblicazione: 2022-10-15 - Pagine: 276 - Autore: Marquerite Crona - Genere: CLASSICI
+ISBN: 6546913287082 - Title: Down to a Sunless Sea - Anno Pubblicazione: 1983-05-11 - Pagine: 186 - Autore: Carlos Muller - Genere: HORROR
+ISBN: 8716378443952 - Title: Death Be Not Proud - Anno Pubblicazione: 1997-09-09 - Pagine: 138 - Periodico: MENSILE
+ISBN: 2966901849670 - Title: The Monkey's Raincoat - Anno Pubblicazione: 1982-07-23 - Pagine: 459 - Autore: Inga O'Kon - Genere: STORIA
+ISBN: 5600684931825 - Title: Frequent Hearses - Anno Pubblicazione: 1986-11-24 - Pagine: 205 - Autore: Delpha Hyatt - Genere: CLASSICI
+ISBN: 1507095605348 - Title: Alone on a Wide, Wide Sea - Anno Pubblicazione: 1962-06-13 - Pagine: 487 - Periodico: SEMESTRALE
+ISBN: 3371432770011 - Title: O Jerusalem! - Anno Pubblicazione: 2017-05-22 - Pagine: 15 - Autore: Caitlin Jacobs - Genere: ROMANZO
+ISBN: 4031398198256 - Title: The Millstone - Anno Pubblicazione: 1962-02-06 - Pagine: 80 - Autore: Adam Bergnaum - Genere: FAVOLE
+ISBN: 6692189503906 - Title: Quo Vadis - Anno Pubblicazione: 1956-10-02 - Pagine: 334 - Autore: Milford Schimmel - Genere: HORROR
+ISBN: 8742058734306 - Title: Specimen Days - Anno Pubblicazione: 1984-01-16 - Pagine: 529 - Autore: Nery Barton - Genere: CUCINA
+ISBN: 4882087870653 - Title: Jacob Have I Loved - Anno Pubblicazione: 2001-12-08 - Pagine: 274 - Periodico: SEMESTRALE
+ISBN: 1625992587692 - Title: The Widening Gyre - Anno Pubblicazione: 2011-06-17 - Pagine: 273 - Autore: Hank Rau II - Genere: CUCINA
+ISBN: 7257501132485 - Title: The Waste Land - Anno Pubblicazione: 1960-01-23 - Pagine: 289 - Periodico: MENSILE
+ISBN: 3690298858754 - Title: A Darkling Plain - Anno Pubblicazione: 2004-09-25 - Pagine: 10 - Periodico: MENSILE
+ISBN: 5914460805902 - Title: To a God Unknown - Anno Pubblicazione: 1988-11-03 - Pagine: 413 - Periodico: MENSILE
+ISBN: 9564083649250 - Title: An Acceptable Time - Anno Pubblicazione: 1974-03-14 - Pagine: 107 - Autore: Keren Wintheiser - Genere: SAGGISTICA
+ISBN: 9109255490572 - Title: All Passion Spent - Anno Pubblicazione: 1984-04-20 - Pagine: 340 - Periodico: SETTIMANALE
+ISBN: 1500081566154 - Title: Bury My Heart at Wounded Knee - Anno Pubblicazione: 2008-11-28 - Pagine: 531 - Periodico: SETTIMANALE
+ISBN: 7730329434565 - Title: A Glass of Blessings - Anno Pubblicazione: 1998-04-03 - Pagine: 312 - Autore: Dewitt Lynch III - Genere: ROMANZO
+ISBN: 9348866263649 - Title: The Millstone - Anno Pubblicazione: 1993-09-06 - Pagine: 430 - Autore: Jeri Ledner - Genere: FANTASY
+ISBN: 2373741593850 - Title: The House of Mirth - Anno Pubblicazione: 1994-06-11 - Pagine: 186 - Periodico: SEMESTRALE
+ISBN: 1645831378094 - Title: Cover Her Face - Anno Pubblicazione: 2008-06-26 - Pagine: 65 - Periodico: SEMESTRALE
+ISBN: 2839654260693 - Title: The Green Bay Tree - Anno Pubblicazione: 2016-09-22 - Pagine: 353 - Periodico: MENSILE
+ISBN: 1727516761130 - Title: The Heart Is a Lonely Hunter - Anno Pubblicazione: 2005-01-12 - Pagine: 59 - Periodico: SEMESTRALE
+ISBN: 6183590394965 - Title: Sleep the Brave - Anno Pubblicazione: 1976-11-02 - Pagine: 481 - Autore: Carmelo Franecki - Genere: ROMANZO
+ISBN: 4840653396847 - Title: Great Work of Time - Anno Pubblicazione: 2001-02-10 - Pagine: 85 - Autore: Narcisa Sipes - Genere: CUCINA
+ISBN: 3260681427938 - Title: Brandy of the Damned - Anno Pubblicazione: 2001-07-25 - Pagine: 21 - Periodico: SEMESTRALE
+ISBN: 8040540216185 - Title: The Moving Finger - Anno Pubblicazione: 1990-11-22 - Pagine: 304 - Autore: Miss Laquanda Kreiger - Genere: HORROR
+ISBN: 5550829779290 - Title: In Dubious Battle - Anno Pubblicazione: 1951-08-23 - Pagine: 415 - Periodico: SETTIMANALE
+ISBN: 6038919197059 - Title: All the King's Men - Anno Pubblicazione: 1966-07-05 - Pagine: 89 - Autore: Tommie Boehm II - Genere: FANTASCIENZA
+ISBN: 6540339910796 - Title: Behold the Man - Anno Pubblicazione: 1997-01-28 - Pagine: 569 - Autore: Maia Lesch MD - Genere: FANTASCIENZA
+ISBN: 5013331985203 - Title: From Here to Eternity - Anno Pubblicazione: 1998-02-03 - Pagine: 254 - Autore: Margarita King - Genere: FANTASY
+ISBN: 3786376055730 - Title: Time of our Darkness - Anno Pubblicazione: 1980-04-17 - Pagine: 6 - Autore: Georgetta Daniel - Genere: HORROR
+ISBN: 7760219558429 - Title: Beyond the Mexique Bay - Anno Pubblicazione: 1976-03-20 - Pagine: 492 - Periodico: SEMESTRALE
+ISBN: 1613815428109 - Title: In Dubious Battle - Anno Pubblicazione: 1990-11-05 - Pagine: 108 - Autore: Kira Nader - Genere: ARTE
+ISBN: 1414005983635 - Title: By Grand Central Station I Sat Down and Wept - Anno Pubblicazione: 2008-12-07 - Pagine: 226 - Autore: Trinidad Abbott - Genere: STORIA
+ISBN: 9556787142244 - Title: Mr Standfast - Anno Pubblicazione: 2016-09-20 - Pagine: 524 - Periodico: SEMESTRALE
+ISBN: 9317481093477 - Title: Such, Such Were the Joys - Anno Pubblicazione: 1968-02-09 - Pagine: 62 - Autore: Percy Lesch I - Genere: FANTASCIENZA
+ISBN: 2503305477784 - Title: The Sun Also Rises - Anno Pubblicazione: 1975-01-18 - Pagine: 313 - Periodico: SETTIMANALE
+ISBN: 9341537189694 - Title: The Doors of Perception - Anno Pubblicazione: 1984-09-25 - Pagine: 318 - Autore: Isidro Macejkovic - Genere: HORROR
+ISBN: 4863091820106 - Title: A Passage to India - Anno Pubblicazione: 1963-01-21 - Pagine: 57 - Periodico: MENSILE
+ISBN: 8503884093641 - Title: Françoise Sagan - Anno Pubblicazione: 2020-01-11 - Pagine: 291 - Autore: Victor Walker - Genere: FANTASCIENZA
+ISBN: 8097082910343 - Title: The Green Bay Tree - Anno Pubblicazione: 1981-08-28 - Pagine: 425 - Autore: Alyssa Bode - Genere: SAGGISTICA
+ISBN: 8562591347649 - Title: Noli Me Tangere - Anno Pubblicazione: 2016-10-15 - Pagine: 462 - Autore: Ozie Parisian - Genere: CUCINA
+ISBN: 6904259782289 - Title: The Line of Beauty - Anno Pubblicazione: 1960-12-13 - Pagine: 273 - Periodico: SETTIMANALE
+ISBN: 8172667363989 - Title: Behold the Man - Anno Pubblicazione: 1961-03-01 - Pagine: 125 - Autore: Harrison Hoeger - Genere: CLASSICI
+ISBN: 9097296952156 - Title: All the King's Men - Anno Pubblicazione: 1988-07-14 - Pagine: 73 - Periodico: MENSILE
+ISBN: 6078298067891 - Title: The Proper Study - Anno Pubblicazione: 1975-10-25 - Pagine: 111 - Periodico: SETTIMANALE
+ISBN: 3588244888933 - Title: As I Lay Dying - Anno Pubblicazione: 1990-06-16 - Pagine: 479 - Periodico: MENSILE
+ISBN: 8696925649480 - Title: For a Breath I Tarry - Anno Pubblicazione: 1978-11-20 - Pagine: 476 - Periodico: SEMESTRALE
+ISBN: 3167145744140 - Title: Ring of Bright Water - Anno Pubblicazione: 1997-11-09 - Pagine: 1 - Autore: Waneta Price Jr. - Genere: STORIA
+ISBN: 6815988077258 - Title: The Parliament of Man - Anno Pubblicazione: 2021-03-04 - Pagine: 162 - Periodico: MENSILE
+ISBN: 5047329038172 - Title: Beyond the Mexique Bay - Anno Pubblicazione: 1956-11-21 - Pagine: 254 - Periodico: SETTIMANALE
+ISBN: 1001242817022 - Title: Eyeless in Gaza - Anno Pubblicazione: 1971-01-27 - Pagine: 301 - Periodico: SEMESTRALE
+ISBN: 1033256760852 - Title: Frequent Hearses - Anno Pubblicazione: 2021-08-15 - Pagine: 58 - Periodico: MENSILE

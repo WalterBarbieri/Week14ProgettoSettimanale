@@ -83,10 +83,10 @@ public class App {
 			log.error("Errore: ", e);
 		}
 
-		log.info("*****************RICERCA ELEMENTO BY AUTORE RANDOM******************");
+		log.info("*****************SCRIVI E LEGGI DA DISCO******************");
 		saveOnDisk(catalogo);
 
-		// log.info(readFromFile().toString());
+		log.info(readFromFile().toString());
 
 	}
 
@@ -215,8 +215,8 @@ public class App {
 		Random rnd = new Random();
 		List<Pubblicazione> list = catalogo.stream().filter(el -> el instanceof Libro).collect(Collectors.toList());
 		if (!list.isEmpty()) {
-			int randomAutor = rnd.nextInt(list.size());
-			Libro libro = (Libro) list.get(randomAutor);
+			int randomAutore = rnd.nextInt(list.size());
+			Libro libro = (Libro) list.get(randomAutore);
 			String autore = libro.getAutore();
 			try {
 
@@ -249,12 +249,13 @@ public class App {
 		try (Scanner scanner = new Scanner(file)) {
 			while (scanner.hasNextLine()) {
 				String line = scanner.nextLine();
-				String[] lineElements = line.split(", ");
+				String[] lineElements = line.split(" - ");
 
 				long codiceIsbn = Long.parseLong(lineElements[0].split(": ")[1]);
 				String titolo = lineElements[1].split(": ")[1];
 
-				String annoPubblicazioneString = lineElements[2].split(": ")[1];
+				String annoPubblicazioneString = lineElements[2].split(" ")[2];
+
 				LocalDate annoPubblicazione = LocalDate.of(Integer.parseInt(annoPubblicazioneString.substring(0, 4)),
 						Integer.parseInt(annoPubblicazioneString.substring(5, 7)),
 						Integer.parseInt(annoPubblicazioneString.substring(8, 10)));

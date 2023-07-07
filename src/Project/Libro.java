@@ -35,11 +35,11 @@ public class Libro extends Pubblicazione {
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
 		sb.append("ISBN: ").append(getCodiceIsbn());
-		sb.append(", Title: ").append(getTitolo());
-		sb.append(", Anno Pubblicazione: ").append(getAnnoPubblicazione());
-		sb.append(", Pagine: ").append(getNumPagine());
-		sb.append(", Autore: ").append(getAutore());
-		sb.append(", Genere: ").append(getGenere());
+		sb.append(" - Title: ").append(getTitolo());
+		sb.append(" - Anno Pubblicazione: ").append(getAnnoPubblicazione());
+		sb.append(" - Pagine: ").append(getNumPagine());
+		sb.append(" - Autore: ").append(getAutore());
+		sb.append(" - Genere: ").append(getGenere());
 		return sb.toString();
 	}
 

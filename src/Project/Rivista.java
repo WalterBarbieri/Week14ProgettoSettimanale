@@ -23,10 +23,10 @@ public class Rivista extends Pubblicazione {
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
 		sb.append("ISBN: ").append(getCodiceIsbn());
-		sb.append(", Title: ").append(getTitolo());
-		sb.append(", Anno Pubblicazione: ").append(getAnnoPubblicazione());
-		sb.append(", Pagine: ").append(getNumPagine());
-		sb.append(", Periodico: ").append(getPeriodicita());
+		sb.append(" - Title: ").append(getTitolo());
+		sb.append(" - Anno Pubblicazione: ").append(getAnnoPubblicazione());
+		sb.append(" - Pagine: ").append(getNumPagine());
+		sb.append(" - Periodico: ").append(getPeriodicita());
 		return sb.toString();
 	}
 

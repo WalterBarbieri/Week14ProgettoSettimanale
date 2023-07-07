@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Random;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -18,7 +19,7 @@ public class App {
 	static Logger log = LoggerFactory.getLogger(App.class);
 
 	public static void main(String[] args) {
-		Random rnd = new Random();
+
 		Set<Pubblicazione> catalogo = new HashSet<>();
 
 		log.info("*****************CREAZIONE RANDOM LIBRI E RIVISTE******************");
@@ -51,9 +52,19 @@ public class App {
 
 		log.info("*****************RICERCA ELEMENTO BY ISBN RANDOM******************");
 		try {
-			SearchRandomElementByIsbn(catalogo);
-			SearchRandomElementByIsbn(catalogo);
-			SearchRandomElementByIsbn(catalogo);
+			searchRandomElementByIsbn(catalogo);
+			searchRandomElementByIsbn(catalogo);
+			searchRandomElementByIsbn(catalogo);
+		} catch (Exception e) {
+			log.error("Errore: ", e);
+		}
+
+		log.info("*****************RICERCA ELEMENTO BY ANNO PUBBLICAZIONE RANDOM******************");
+
+		try {
+			searchRandomElementByAnnoPubblicazione(catalogo);
+			searchRandomElementByAnnoPubblicazione(catalogo);
+			searchRandomElementByAnnoPubblicazione(catalogo);
 		} catch (Exception e) {
 			log.error("Errore: ", e);
 		}
@@ -135,7 +146,7 @@ public class App {
 	}
 
 	// METODO RICERCA TRMITE ISBN RANDOM - COME SOPRA
-	private static void SearchRandomElementByIsbn(Set<Pubblicazione> catalogo) {
+	private static void searchRandomElementByIsbn(Set<Pubblicazione> catalogo) {
 		Random rnd = new Random();
 		List<Pubblicazione> list = new ArrayList<>(catalogo);
 		if (!list.isEmpty()) {
@@ -148,10 +159,46 @@ public class App {
 	}
 
 	// METODO PER RICERCA TRAMITE ANNO PUBBLICAZIONE - COME SOPRA
-	private static void searchByAnnoPubblicazione(Set<Pubblicazione> catalogo, long codiceIsbn) {
-		Optional<Pubblicazione> pubblicazione = catalogo.stream()
-				.filter(element -> element.getCodiceIsbn() == codiceIsbn).findFirst();
-		log.info("Elemento selezionato: " + pubblicazione.get().toString());
+	private static void searchByAnnoPubblicazione(Set<Pubblicazione> catalogo, int annoPubblicazione) {
+		List<Pubblicazione> pubblicazione = catalogo.stream()
+				.filter(element -> element.getAnnoPubblicazione().getYear() == annoPubblicazione)
+				.collect(Collectors.toList());
+		log.info("Elementi trovati pubblicati nell'anno: " + annoPubblicazione);
+		pubblicazione.forEach(el -> log.info(el.toString()));
+	}
+
+	// METODO RICERCA TRAMITE ANNO PUBBLICAZIONE RANDOM - COME SOPRA
+	private static void searchRandomElementByAnnoPubblicazione(Set<Pubblicazione> catalogo) {
+		Random rnd = new Random();
+
+		List<Pubblicazione> list = new ArrayList<>(catalogo);
+		if (!list.isEmpty()) {
+			int randomYear = rnd.nextInt(2023 - 1950) + 1950;
+			try {
+				searchByAnnoPubblicazione(catalogo, randomYear);
+			} catch (Exception e) {
+				log.info("Non ci sono elementi pubblicati nell'anno: " + randomYear);
+				e.printStackTrace();
+			}
+		}
+	}
+
+	// METODO PER RICERCA TRAMITE AUTORE - COME SOPRA
+	private static void searchByAutore(Set<Pubblicazione> catalogo, String autore) {
+		List<Pubblicazione> pubblicazione = catalogo.stream().filter(el -> el instanceof Libro)
+				.filter(el -> ((Libro) el).getAutore().equalsIgnoreCase(autore)).collect(Collectors.toList());
+		log.info("Elementi trovati pubblicati dall'Autore: " + autore);
+		pubblicazione.forEach(el -> log.info(el.toString()));
+	}
+
+	// METODO RICERCA TRAMITE AUTORE RANDOM - COME SOPRA
+	private static void searchRandomElementsByAutore(Set<Pubblicazione> catalogo) {
+		Random rnd = new Random();
+		List<Pubblicazione> list = catalogo.stream().filter(el -> el instanceof Libro).collect(Collectors.toList());
+		if (!list.isEmpty()) {
+			int randomAutor = rnd.nextInt(list.size());
+
+		}
 	}
 
 }

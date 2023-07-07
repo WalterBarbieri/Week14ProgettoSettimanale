@@ -1,5 +1,10 @@
 package Project;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -18,7 +23,7 @@ import com.github.javafaker.Faker;
 public class App {
 	static Logger log = LoggerFactory.getLogger(App.class);
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 
 		Set<Pubblicazione> catalogo = new HashSet<>();
 
@@ -68,6 +73,18 @@ public class App {
 		} catch (Exception e) {
 			log.error("Errore: ", e);
 		}
+
+		log.info("*****************RICERCA ELEMENTO BY AUTORE RANDOM******************");
+
+		try {
+			searchRandomElementsByAutore(catalogo);
+			searchRandomElementsByAutore(catalogo);
+			searchRandomElementsByAutore(catalogo);
+		} catch (Exception e) {
+			log.error("Errore: ", e);
+		}
+
+		saveOnDisk(catalogo);
 
 	}
 
@@ -197,8 +214,42 @@ public class App {
 		List<Pubblicazione> list = catalogo.stream().filter(el -> el instanceof Libro).collect(Collectors.toList());
 		if (!list.isEmpty()) {
 			int randomAutor = rnd.nextInt(list.size());
+			Libro libro = (Libro) list.get(randomAutor);
+			String autore = libro.getAutore();
+			try {
+
+				searchByAutore(catalogo, autore);
+			} catch (Exception e) {
+				log.info("Non ci sono elementi pubblicati dall'Autore: " + autore);
+				e.printStackTrace();
+			}
 
 		}
 	}
 
+	// METODO PER SCRIVERE SU DISCO
+	public static void saveOnDisk(Set<Pubblicazione> catalogo) throws IOException {
+		File file = new File("Catalogo.txt");
+		try (FileWriter writer = new FileWriter(file)) {
+			for (Pubblicazione pubblicazione : catalogo) {
+				writer.write(pubblicazione.toString());
+				writer.write(System.lineSeparator());
+			}
+		}
+
+	}
+
+	// METODO PER LEGGERE DA DISCO
+	public static Set<Pubblicazione> readFromFile() throws IOException {
+
+		Set<Pubblicazione> catalogo = new HashSet<>();
+		File file = new File("Catalogo.txt");
+
+		try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+			String line;
+			while ((line = reader.readLine()) != null) {
+				catalogo.add(Pubblicazione.fromString(line));
+			}
+		}
+	}
 }
